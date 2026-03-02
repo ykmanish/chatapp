@@ -1,0 +1,1 @@
+{"expo":{"name":"ChatApp","slug":"chatapp","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"light","splash":{"backgroundColor":"#6C63FF","resizeMode":"contain"},"assetBundlePatterns":["**/*"],"ios":{"supportsTablet":true,"bundleIdentifier":"com.chatapp.mobile"},"android":{"adaptiveIcon":{"backgroundColor":"#6C63FF"},"package":"com.chatapp.mobile"}}}
